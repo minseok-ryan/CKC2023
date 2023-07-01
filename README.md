@@ -1,2 +1,2 @@
-# Jenny
+# Mock
 "# mock_portfolio" 
