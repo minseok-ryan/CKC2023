@@ -6,7 +6,7 @@
         },
         {
             "name": "Publications",
-            "hide": false
+            "hide": true
         },
         {
             "name": "Scholarships",
